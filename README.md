@@ -4,38 +4,38 @@
 
 ## 🇩🇪 Individuelle Tastaturen für dein TUXEDO Notebook
 
-Im Sinne von Open Source stellen wir produktionsreife Vorlagen für gelaserte Tastaturen zur Verfügung. Wir möchten damit allen Enthusiasten die Möglichkeit geben, ihr eigenes Tastaturlayout zu erstellen und dieses dann auf ihrem Linux-Notebooks von TUXEDO gelasert zu bekommen. Das Ganze ist ein kostenloser Service von (TUXEDO Computers)[https://www.tuxedocomputers.com] - denn von zusätzlichen Speziallayouts profitiert widerum die gesamte Community!
+Im Sinne von Open Source stellen wir produktionsreife Vorlagen für gelaserte Tastaturen zur Verfügung. Wir möchten damit allen Enthusiasten die Möglichkeit geben, ihr eigenes Tastaturlayout zu erstellen und dieses dann auf ihrem Linux-Notebooks von TUXEDO gelasert zu bekommen. Das Ganze ist ein kostenloser Service von [TUXEDO Computers](https://www.tuxedocomputers.com) - denn von zusätzlichen Speziallayouts profitiert widerum die gesamte Community!
 
 Folgende Modelle sind bisher verfügbar:
-    * TUXEDO InfinityBook Pro 15
-    * TUXEDO InfinityBook S14
+ * TUXEDO InfinityBook Pro 15
+ * TUXEDO InfinityBook S14
 
 Folgende Sprachen existieren bereits:
-    * Deutsch (DE-DE)
-    * Englisch (US-ISO)
-    * Englisch (UK-ISO)
-    * Schweiz (DE-CH)
-    * Belgisch (BE)
-    * Tschechisch (CZ)
-    * Dänisch (DK)
-    * Estnisch (ET)
-    * Französisch (FR)
-    * Griechisch (GR)
-    * Ungarisch (HU)
-    * Italienisch (IT)
-    * Norwegisch (NO)
-    * Polnisch (PL Programmers)
-    * Portugiesisch (PT-PT)
-    * Russisch (RU-EN)
-    * Slowakisch (SK)
-    * Slowenisch / Kroatisch (SL/HR)
-    * Spanisch (ES)
-    * Schwedisch/Finnisch (SE/FI)
-    * Türkisch (TR)
+ * Deutsch (DE-DE)
+ * Englisch (US-ISO)
+ * Englisch (UK-ISO)
+ * Schweiz (DE-CH)
+ * Belgisch (BE)
+ * Tschechisch (CZ)
+ * Dänisch (DK)
+ * Estnisch (ET)
+ * Französisch (FR)
+ * Griechisch (GR)
+ * Ungarisch (HU)
+ * Italienisch (IT)
+ * Norwegisch (NO)
+ * Polnisch (PL Programmers)
+ * Portugiesisch (PT-PT)
+ * Russisch (RU-EN)
+ * Slowakisch (SK)
+ * Slowenisch / Kroatisch (SL/HR)
+ * Spanisch (ES)
+ * Schwedisch/Finnisch (SE/FI)
+ * Türkisch (TR)
 
 Folgende Layoutvarianten existieren bereits:
-    * Dvorak DE-ISO
-    * Dvorak US-ISO
+ * Dvorak DE-ISO
+ * Dvorak US-ISO
 
 ### Bedingungen
 
@@ -55,7 +55,7 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
     cp InfinityBook\ S14\ -\ EN-US.svg InfinityBook\ S14\ -\ <NEUES KUERZEL>.svg
     git add InfinityBook\ S14/InfinityBook\ S14\ -\ <NEUES KUERZEL>.svg
     ```
- 3. Bearbeiten der neuen Datei mit einem Vektorgrafikprogramm, vorzugsweise (Inkscape)[https://inkscape.org/de/]. Bitte hierbei folgende Punkte beachten:
+ 3. Bearbeiten der neuen Datei mit einem Vektorgrafikprogramm, vorzugsweise [Inkscape](https://inkscape.org/de/). Bitte hierbei folgende Punkte beachten:
     * Die Ebenen *justify* und *grid* sind gesperrt. Diese auf keinen Fall verändern!
     * Position der Tastenbeschriftung im Idealfall nicht verändern. Falls doch nötig, bitte nicht zu nahe an den Rand der jeweiligen Taste setzen.
     * Schriftarten nur nach vorheriger Absprache verändern.
@@ -63,11 +63,13 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
     `git commit -m "Neues Layout für Sprache XZY"` 
  5. Alle Arbeiten in deinen Fork auf Github.com schieben: <br />
     `git push --set-upstream origin <NEUER BRANCH>`
- 6. Mit einem Pull Request reichst du deine Arbeiten bei uns für einen kurzen Check ein und wir geben es dann frei, sobald alles passt. Ab hier gehen deine Daten in die Produktion und schon bald erhältst du dein TUXEDO Notebook mit **deinem** Tastaturlayout!
+ 6. Mit einem Pull Request reichst du deine Arbeiten bei uns für einen kurzen Check ein und wir geben es dann frei, sobald alles passt. Ab hier gehen deine Daten in die Produktion und schon bald erhältst du dein TUXEDO Notebook mit **deinem** Tastaturlayout! 🎉
+ 
+ <hr>
  
 ## 🇺🇸 Custom Keyboards for your TUXEDO laptop
 
-In the spirit of Open Source, we provide production-ready templates for lasered keyboards. We want to give all enthusiasts the possibility to create their own keyboard layout and have it lasered on their Linux notebook by TUXEDO. The whole thing is a free service from (TUXEDO Computers)[https://www.tuxedocomputers.com] - because the whole community benefits from additional special layouts!
+In the spirit of Open Source, we provide production-ready templates for lasered keyboards. We want to give all enthusiasts the possibility to create their own keyboard layout and have it lasered on their Linux notebook by TUXEDO. The whole thing is a free service from [TUXEDO Computers](https://www.tuxedocomputers.com) - because the whole community benefits from additional special layouts!
 
 The following models are available to date:
     * TUXEDO InfinityBook Pro 15
@@ -117,7 +119,7 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
     cp InfinityBook\ S14\ -\ EN-US.svg InfinityBook\ S14\ -\ <NEW CODE>.svg
     git add InfinityBook\ S14/InfinityBook\ S14\ -\ <NEW CODE>.svg
     ```
- 3. Edit the new file with a vector graphics program, preferably (Inkscape) [https://inkscape.org/]. Please note the following points:
+ 3. Edit the new file with a vector graphics program, preferably [Inkscape](https://inkscape.org/). Please note the following points:
     * The levels *justify* and *grid* are locked. Do not change them under any circumstances!
     * Ideally, do not change the position of the key labeling. If necessary, please do not place it too close to the edge of the respective key.
     * Change fonts only after prior consultation.
@@ -125,4 +127,4 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
     `git commit -m "New layout for language XZY"` 
  5. Move all work into your fork on Github.com: <br />
     `git push --set-upstream origin <NEW BRANCH>`
- 6. With a Pull Request you submit your work to us for a short check and we approve it as soon as everything fits. From here on your data will go into production and soon you will receive your TUXEDO laptop with **your** keyboard layout!
+ 6. With a Pull Request you submit your work to us for a short check and we approve it as soon as everything fits. From here on your data will go into production and soon you will receive your TUXEDO laptop with **your** keyboard layout! 🎉
