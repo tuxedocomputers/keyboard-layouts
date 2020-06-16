@@ -4,6 +4,8 @@
 
 ## 🇩🇪 Individuelle Tastaturen für dein TUXEDO Notebook
 
+[![Watch the video](https://img.youtube.com/vi/6wrwNaS5dw4/maxresdefault.jpg)](https://youtu.be/6wrwNaS5dw4)
+
 Im Sinne von Open Source stellen wir produktionsreife Vorlagen für gelaserte Tastaturen zur Verfügung. Wir möchten damit allen Enthusiasten die Möglichkeit geben, ihr eigenes Tastaturlayout zu erstellen und dieses dann auf ihrem Linux-Notebooks von TUXEDO gelasert zu bekommen. Das Ganze ist ein kostenloser Service von [TUXEDO Computers](https://www.tuxedocomputers.com) - denn von zusätzlichen Speziallayouts profitiert widerum die gesamte Community!
 
 Folgende Modelle sind bisher verfügbar:
@@ -65,6 +67,8 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
  <hr>
  
 ## 🇺🇸 Custom Keyboards for your TUXEDO laptop
+
+[![Watch the video](https://img.youtube.com/vi/6wrwNaS5dw4/maxresdefault.jpg)](https://youtu.be/6wrwNaS5dw4)
 
 In the spirit of Open Source, we provide production-ready templates for lasered keyboards. We want to give all enthusiasts the possibility to create their own keyboard layout and have it lasered on their Linux notebook by TUXEDO. The whole thing is a free service from [TUXEDO Computers](https://www.tuxedocomputers.com) - because the whole community benefits from additional special layouts!
 
