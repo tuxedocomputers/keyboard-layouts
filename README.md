@@ -36,10 +36,7 @@ Folgende Sprachen existieren bereits:
 Folgende Layoutvarianten existieren bereits:
  * Dvorak DE-ISO
  * Dvorak US-ISO
-
-### Bedingungen
-
-    
+   
 ### Eigenes Layout einreichen
 Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zur Sicherheit hier noch einmal alle Schritte im Detail:
 
@@ -72,38 +69,36 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
 In the spirit of Open Source, we provide production-ready templates for lasered keyboards. We want to give all enthusiasts the possibility to create their own keyboard layout and have it lasered on their Linux notebook by TUXEDO. The whole thing is a free service from [TUXEDO Computers](https://www.tuxedocomputers.com) - because the whole community benefits from additional special layouts!
 
 The following models are available to date:
-    * TUXEDO InfinityBook Pro 15
-    * TUXEDO InfinityBook S14
+ * TUXEDO InfinityBook Pro 15
+ * TUXEDO InfinityBook S14
 
 The following languages already exist:
-    * German (DE-DE)
-    * English (US-ISO)
-    * English (UK-ISO)
-    * Swiss (DE-CH)
-    * Belgian (BE)
-    * Czech (CZ)
-    * Danish (DK)
-    * Estonian (ET)
-    * French (FR)
-    * Greek (GR)
-    * Hungarian (HU)
-    * Italian (IT)
-    * Norwegian (NO)
-    * Polish (PL Programmers)
-    * Portugese (PT-PT)
-    * Russian (RU-EN)
-    * Slovakian (SK)
-    * Slovenian / Croatian (SL/HR)
-    * Spanish (ES)
-    * Swedish/Finnish (SE/FI)
-    * Turkish (TR)
+ * German (DE-DE)
+ * English (US-ISO)
+ * English (UK-ISO)
+ * Swiss (DE-CH)
+ * Belgian (BE)
+ * Czech (CZ)
+ * Danish (DK)
+ * Estonian (ET)
+ * French (FR)
+ * Greek (GR)
+ * Hungarian (HU)
+ * Italian (IT)
+ * Norwegian (NO)
+ * Polish (PL Programmers)
+ * Portugese (PT-PT)
+ * Russian (RU-EN)
+ * Slovakian (SK)
+ * Slovenian / Croatian (SL/HR)
+ * Spanish (ES)
+ * Swedish/Finnish (SE/FI)
+ * Turkish (TR)
 
 The following layout variants already exist:
-    * Dvorak DE-ISO
-    * Dvorak US-ISO
+ * Dvorak DE-ISO
+ * Dvorak US-ISO
     
-### Conditions
-
 ### Submitting your own layout
 Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zur Sicherheit hier noch einmal alle Schritte im Detail:
 
