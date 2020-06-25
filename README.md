@@ -11,6 +11,8 @@ Im Sinne von Open Source stellen wir produktionsreife Vorlagen für gelaserte Ta
 Folgende Modelle sind bisher verfügbar:
  * TUXEDO InfinityBook Pro 15
  * TUXEDO InfinityBook S14
+ * TUXEDO Book XP15
+ * TUXEDO Book XP17
 
 Folgende Sprachen existieren bereits:
  * Deutsch (DE-DE)
@@ -75,6 +77,8 @@ In the spirit of Open Source, we provide production-ready templates for lasered 
 The following models are available to date:
  * TUXEDO InfinityBook Pro 15
  * TUXEDO InfinityBook S14
+ * TUXEDO Book XP15
+ * TUXEDO Book XP17
 
 The following languages already exist:
  * German (DE-DE)
