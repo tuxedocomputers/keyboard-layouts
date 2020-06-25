@@ -46,13 +46,13 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
 
  1. Dieses Repository forken, den Fork auf deinen Rechner klonen und danach einen neuen Branch für deine Arbeiten erstellen: <br />
     ```
-    git clone https://github.com/<DEIN USERNAME>/custom-keyboards
-    cd custom-keyboards/
+    git clone https://github.com/<DEIN USERNAME>/keyboard-layouts
+    cd keyboard-layouts/
     git checkout -b <NEUER BRANCH>
     ```
  2. Eine Datei kopieren, mit geändertem Sprachkürzel im Dateinamen ablegen und dem Git Index hinzufügen. Zum Beispiel für das InfinityBook S14: <br />
     ```
-    cd custom-keyboards/InfinityBook\ S14/
+    cd keyboard-layouts/InfinityBook\ S14/
     cp InfinityBook\ S14\ -\ EN-US.svg InfinityBook\ S14\ -\ <NEUES KUERZEL>.svg
     git add InfinityBook\ S14/InfinityBook\ S14\ -\ <NEUES KUERZEL>.svg
     ```
@@ -112,13 +112,13 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
 
  1. Fork this repository, clone the fork on your machine and then create a new branch for your work: <br />
     ```
-    git clone https://github.com/<YOUR USERNAME>/custom-keyboards
-    cd custom-keyboards/
+    git clone https://github.com/<YOUR USERNAME>/keyboard-layouts
+    cd keyboard-layouts/
     git checkout -b <NEW BRANCH>
     ```
  2. Copy a file, save it with a changed language abbreviation in the file name and add it to the Git Index. For example for the InfinityBook S14: <br />
     ```
-    cd custom-keyboards/InfinityBook\ S14/
+    cd keyboard-layouts/InfinityBook\ S14/
     cp InfinityBook\ S14\ -\ EN-US.svg InfinityBook\ S14\ -\ <NEW CODE>.svg
     git add InfinityBook\ S14/InfinityBook\ S14\ -\ <NEW CODE>.svg
     ```
