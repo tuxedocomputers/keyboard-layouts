@@ -9,6 +9,7 @@
 Im Sinne von Open Source stellen wir produktionsreife Vorlagen für gelaserte Tastaturen zur Verfügung. Wir möchten damit allen Enthusiasten die Möglichkeit geben, ihr eigenes Tastaturlayout zu erstellen und dieses dann auf ihrem Linux-Notebooks von TUXEDO gelasert zu bekommen. Das Ganze ist ein kostenloser Service von [TUXEDO Computers](https://www.tuxedocomputers.com) - denn von zusätzlichen Speziallayouts profitiert widerum die gesamte Community!
 
 Folgende Modelle sind bisher verfügbar:
+ * TUXEDO Aura 15
  * TUXEDO Book BC15
  * TUXEDO Book BC17
  * TUXEDO InfinityBook Pro 15
@@ -16,8 +17,10 @@ Folgende Modelle sind bisher verfügbar:
  * TUXEDO Pulse 14
  * TUXEDO Pulse 15
  * TUXEDO Book XA15
+ * TUXEDO Book XC17
  * TUXEDO Book XP15
  * TUXEDO Book XP17
+ * TUXEDO Book XUX7
 
 Folgende Sprachen existieren bereits:
  * Deutsch (DE-DE)
@@ -80,6 +83,7 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
 In the spirit of Open Source, we provide production-ready templates for lasered keyboards. We want to give all enthusiasts the possibility to create their own keyboard layout and have it lasered on their Linux notebook by TUXEDO. The whole thing is a free service from [TUXEDO Computers](https://www.tuxedocomputers.com) - because the whole community benefits from additional special layouts!
 
 The following models are available to date:
+ * TUXEDO Aura 15
  * TUXEDO Book BC15
  * TUXEDO Book BC17
  * TUXEDO InfinityBook Pro 15
@@ -87,8 +91,11 @@ The following models are available to date:
  * TUXEDO Pulse 14
  * TUXEDO Pulse 15
  * TUXEDO Book XA15
+ * TUXEDO Book XC17
  * TUXEDO Book XP15
  * TUXEDO Book XP17
+ * TUXEDO Book XUX7
+
 
 The following languages already exist:
  * German (DE-DE)
