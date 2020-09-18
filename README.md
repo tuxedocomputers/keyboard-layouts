@@ -108,7 +108,7 @@ The following layout variants already exist:
  * Dvorak US-ISO
     
 ### Submitting your own layout
-Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zur Sicherheit hier noch einmal alle Schritte im Detail:
+The process is identical to most other software projects on Github. To be on the safe side here are all steps in detail:
 
  1. Fork this repository, clone the fork on your machine and then create a new branch for your work: <br />
     ```
