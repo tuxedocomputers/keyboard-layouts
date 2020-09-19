@@ -68,6 +68,7 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
     * Die Ebenen *justify* und *grid* sind gesperrt. Diese auf keinen Fall verändern!
     * Position der Tastenbeschriftung im Idealfall nicht verändern. Falls doch nötig, bitte nicht zu nahe an den Rand der jeweiligen Taste setzen.
     * Schriftarten nur nach vorheriger Absprache verändern.
+      - Die Schriftart kann von [Google Fonts](https://fonts.google.com/specimen/Rajdhani) heruntergeladen werden.
  4. Änderungen speichern und *committen*. Eine aussagekräftige Beschreibung des commits ("commit message") ist immer gerne gesehen: <br />
     `git commit -m "Neues Layout für Sprache XZY"` 
  5. Alle Arbeiten in deinen Fork auf Github.com schieben: <br />
@@ -143,6 +144,7 @@ The process is identical to most other software projects on Github. To be on the
     * The levels *justify* and *grid* are locked. Do not change them under any circumstances!
     * Ideally, do not change the position of the key labeling. If necessary, please do not place it too close to the edge of the respective key.
     * Change fonts only after prior consultation.
+      - The font can be downloaded from [Google Fonts](https://fonts.google.com/specimen/Rajdhani).
  4. Save changes and *commit*. A meaningful description of the commit ("commit message") is always welcome: <br />
     `git commit -m "New layout for language XZY"` 
  5. Move all work into your fork on Github.com: <br />
