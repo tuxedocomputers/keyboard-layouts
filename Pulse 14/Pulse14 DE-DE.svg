@@ -1624,14 +1624,14 @@
      font-weight="'Medium'"
      font-size="15.2053px"
      id="text274">°</text><text
-     y="276.88089"
-     x="224.4561"
+     y="275.77151"
+     x="224.2402"
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
      style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
-     font-size="13px"
-     id="text276" /><text
+     font-size="10px"
+     id="text276">&gt;</text><text
      y="171.9189"
      x="813.07031"
      fill="#ffffff"
@@ -1681,7 +1681,7 @@
      font-weight="'Bold'"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
      font-size="13px"
-     id="text288" /><text
+     id="text288">&quot;</text><text
      y="117.9722"
      x="313.2041"
      fill="#ffffff"
@@ -1713,7 +1713,7 @@
      font-weight="'Semi-Bold'"
      style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
      font-size="10px"
-     id="text296" /><text
+     id="text296">&amp;</text><text
      y="117.9321"
      x="523.52393"
      fill="#ffffff"
@@ -2982,15 +2982,7 @@
        font-family="Rajdhani"
        fill="#ffffff"
        y="67.583"
-       x="159.33588">FNLOCK</tspan></text><text
-     id="text1513"
-     font-size="10px"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
-     font-weight="'Semi-Bold'"
-     font-family="Rajdhani"
-     fill="#ffffff"
-     x="224.2402"
-     y="275.77151">&gt;</text></g>
+       x="159.33588">FNLOCK</tspan></text></g>
 <ns1:pgf
    id="adobe_illustrator_pgf">
 	<![CDATA[
