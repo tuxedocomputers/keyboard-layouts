@@ -14,6 +14,7 @@ Folgende Modelle sind bisher verfügbar:
  * TUXEDO Book BC17
  * TUXEDO InfinityBook Pro 15
  * TUXEDO InfinityBook S14
+ * TUXEDO Polaris 15
  * TUXEDO Pulse 14
  * TUXEDO Pulse 15
  * TUXEDO Book XA15
@@ -89,6 +90,7 @@ The following models are available to date:
  * TUXEDO Book BC17
  * TUXEDO InfinityBook Pro 15
  * TUXEDO InfinityBook S14
+ * TUXEDO Polaris 15
  * TUXEDO Pulse 14
  * TUXEDO Pulse 15
  * TUXEDO Book XA15
