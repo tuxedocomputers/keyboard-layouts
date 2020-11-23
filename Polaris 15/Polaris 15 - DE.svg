@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="Polaris 15 Gen1 - DE.svg"
+   sodipodi:docname="Polaris 15 - DE.svg"
    xml:space="preserve"
    enable-background="new 0 0 1077.165 382.677"
    overflow="visible"
@@ -487,13 +487,13 @@
 	
 	
 </defs><sodipodi:namedview
-   inkscape:current-layer="layer2"
+   inkscape:current-layer="layer1"
    inkscape:window-maximized="1"
    inkscape:window-y="0"
    inkscape:window-x="1920"
-   inkscape:cy="191.3385"
-   inkscape:cx="538.58252"
-   inkscape:zoom="1.0741158"
+   inkscape:cy="201.30199"
+   inkscape:cx="798.04474"
+   inkscape:zoom="6.0761165"
    showgrid="false"
    id="namedview987"
    inkscape:window-height="1051"
@@ -30585,11 +30585,11 @@ CFAFhAhTCFUFhghbCGIFiQhnCGwFkQ==")}
 
 
 <g
-   sodipodi:insensitive="true"
    style="display:inline"
    inkscape:label="grid"
    id="layer1"
-   inkscape:groupmode="layer"><rect
+   inkscape:groupmode="layer"
+   sodipodi:insensitive="true"><rect
      id="rect14"
      height="38.290001"
      width="38.469002"
@@ -31221,23 +31221,10 @@ CFAFhAhTCFUFhghbCGIFiQhnCGwFkQ==")}
      stroke="#f0027f"
      fill="none"
      y="244.534"
-     x="722.07501" /><rect
+     x="722.07501" /><path
      id="rect172"
-     height="38.290001"
-     width="65.036003"
-     stroke-width="0.283"
-     stroke="#f0027f"
-     fill="none"
-     y="138.319"
-     x="786.18103" /><rect
-     id="rect174"
-     height="38.82"
-     width="49.334999"
-     stroke-width="0.283"
-     stroke="#f0027f"
-     fill="none"
-     y="191.293"
-     x="801.88202" /><rect
+     style="fill:none;stroke:#f0027f;stroke-width:0.283"
+     d="m 786.18164,138.31836 v 38.29102 h 15.70117 v 53.5039 h 49.33399 v -53.5039 -1.31641 -36.97461 z" /><rect
      id="rect176"
      height="38.290001"
      width="38.469002"
