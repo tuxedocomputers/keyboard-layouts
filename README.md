@@ -75,7 +75,9 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
     `git commit -m "Neues Layout für Sprache XZY"` 
  5. Alle Arbeiten in deinen Fork auf Github.com schieben: <br />
     `git push --set-upstream origin <NEUER BRANCH>`
- 6. Mit einem Pull Request reichst du deine Arbeiten bei uns für einen kurzen Check ein und wir geben es dann frei, sobald alles passt. Ab hier gehen deine Daten in die Produktion und schon bald erhältst du dein TUXEDO Notebook mit **deinem** Tastaturlayout! 🎉
+ 6. Mit einem Pull Request reichst du deine Arbeiten bei uns ein.<br />
+ **Wichtig:** Bitte vermerke bei deiner Bestellung im Shop, dass du ein Layout auf Github eingereicht hast! Wir prüfen das Layout und geben es frei, sofern alles passt. <br /><br />
+ Ab hier gehen deine Daten in die Produktion und schon bald erhältst du dein TUXEDO Notebook mit **deinem** Tastaturlayout! 🎉
  
  <hr>
  
@@ -153,4 +155,6 @@ The process is identical to most other software projects on Github. To be on the
     `git commit -m "New layout for language XZY"` 
  5. Move all work into your fork on Github.com: <br />
     `git push --set-upstream origin <NEW BRANCH>`
- 6. With a Pull Request you submit your work to us for a short check and we approve it as soon as everything fits. From here on your data will go into production and soon you will receive your TUXEDO laptop with **your** keyboard layout! 🎉
+ 6. With a Pull Request you submit your work to us. <br />
+ **Important:** Please note in your order in the store that you have submitted a layout on Github! We will check the layout and release it if everything fits. <br /><br />
+ From here on your data will go into production and soon you will receive your TUXEDO laptop with **your** keyboard layout! 🎉
