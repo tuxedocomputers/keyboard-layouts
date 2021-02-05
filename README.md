@@ -6,7 +6,7 @@
 
 [![Watch the video](/video-laser.jpg?raw=true)](https://youtu.be/6wrwNaS5dw4)
 
-Im Sinne von Open Source stellen wir produktionsreife Vorlagen für gelaserte Tastaturen zur Verfügung. Wir möchten damit allen Enthusiasten die Möglichkeit geben, ihr eigenes Tastaturlayout zu erstellen und dieses dann auf ihrem Linux-Notebooks von TUXEDO gelasert zu bekommen. Das Ganze ist ein kostenloser Service von [TUXEDO Computers](https://www.tuxedocomputers.com) - denn von zusätzlichen Speziallayouts profitiert widerum die gesamte Community!
+Im Sinne von Open Source stellen wir produktionsreife Vorlagen für gelaserte Tastaturen zur Verfügung. Wir möchten damit allen Enthusiasten die Möglichkeit geben, ihr eigenes Tastaturlayout zu erstellen und dieses dann auf ihrem Linux-Notebooks von TUXEDO gelasert zu bekommen. Sollte Ihr Layout auch für andere Kunden relevant sein, beispielsweise bei neuen Sprachvarianten, ist das Ganze sogar kostenlos. Denn von zusätzlichen Speziallayouts profitiert wiederum die gesamte Community!
 
 Folgende Modelle sind bisher verfügbar:
  * TUXEDO Aura 15
@@ -85,7 +85,7 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
 
 [![Watch the video](/video-laser.jpg?raw=true)](https://youtu.be/6wrwNaS5dw4)
 
-In the spirit of Open Source, we provide production-ready templates for lasered keyboards. We want to give all enthusiasts the possibility to create their own keyboard layout and have it lasered on their Linux notebook by TUXEDO. The whole thing is a free service from [TUXEDO Computers](https://www.tuxedocomputers.com) - because the whole community benefits from additional special layouts!
+In the spirit of Open Source, we provide production-ready templates for lasered keyboards. We want to give all enthusiasts the possibility to create their own keyboard layout and have it lasered on their Linux notebook by TUXEDO. If your layout is also relevant for other customers, for example for new language variants, the whole service is even free of charge. Because additional special layouts in turn benefit the entire community!
 
 The following models are available to date:
  * TUXEDO Aura 15
