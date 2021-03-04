@@ -29498,9 +29498,9 @@
    inkscape:window-height="1147"
    id="namedview14001"
    showgrid="false"
-   inkscape:zoom="2.159372"
-   inkscape:cx="385.24995"
-   inkscape:cy="208.91122"
+   inkscape:zoom="1.079686"
+   inkscape:cx="495.11973"
+   inkscape:cy="218.84231"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -29508,9 +29508,9 @@
    inkscape:document-rotation="0"
    showguides="true"
    inkscape:guide-bbox="true"><sodipodi:guide
-     position="791.06017,182.27181"
+     position="691.98358,106.55505"
      orientation="0,-1"
-     id="guide13566" /></sodipodi:namedview>
+     id="guide13549" /></sodipodi:namedview>
 <font
    horiz-adv-x="2048"
    id="font6526">
@@ -83996,12 +83996,13 @@
        id="tspan13599"
        x="674.15253"
        y="259.55371">?</tspan></text><text
-     transform="translate(235.6416,259.5537)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13434"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">\</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+     x="235.29428"
+     y="276.10944">\</text><text
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
@@ -84145,12 +84146,13 @@
        id="tspan13621"
        x="138.5056"
        y="127.08917">`</tspan></text><text
-     transform="translate(224.5156,277.334)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="13px"
      id="text13472"
-     style="fill:#000000">|</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+     x="237.36655"
+     y="259.38898">|</text><text
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
