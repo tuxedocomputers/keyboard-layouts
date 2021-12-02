@@ -16,8 +16,8 @@
    overflow="visible"
    enable-background="new 0 0 1077.165 382.677"
    xml:space="preserve"
-   sodipodi:docname="Pulse15 TUX ISO US.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   sodipodi:docname="Pulse15 US-ISO.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
    id="metadata14005"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -29494,14 +29494,14 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1884"
+   inkscape:window-width="1920"
    inkscape:window-height="1051"
    id="namedview14001"
    showgrid="false"
    inkscape:zoom="1.079686"
    inkscape:cx="538.58252"
    inkscape:cy="191.3385"
-   inkscape:window-x="36"
+   inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="layer1"
@@ -83789,193 +83789,225 @@
      font-family="'Rajdhani'"
      font-size="16"
      id="text13372"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Q</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Q</text>
+<text
      transform="translate(297.5459,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13374"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">W</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">W</text>
+<text
      transform="translate(353.3057,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13376"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">E</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">E</text>
+<text
      transform="translate(405.8975,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13378"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">R</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">R</text>
+<text
      transform="translate(459.8818,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13380"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">T</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">T</text>
+<text
      transform="translate(512.4258,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13382"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Y</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Y</text>
+<text
      transform="translate(565.2734,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13384"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">U</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">U</text>
+<text
      transform="translate(620.7773,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13386"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">I</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">I</text>
+<text
      transform="translate(671.5938,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13388"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">O</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">O</text>
+<text
      transform="translate(724.9375,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13390"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">P</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">P</text>
+<text
      transform="translate(777.8652,153.2813)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13392"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">[</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">[</text>
+<text
      transform="translate(261.3535,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13394"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">A</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">A</text>
+<text
      transform="translate(314.6655,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13396"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">S</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">S</text>
+<text
      transform="translate(367.7217,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13398"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">D</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">D</text>
+<text
      transform="translate(421.7056,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13400"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">F</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">F</text>
+<text
      transform="translate(474.1055,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13402"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">G</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">G</text>
+<text
      transform="translate(526.9536,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13404"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">H</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">H</text>
+<text
      transform="translate(580.5537,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13406"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">J</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">J</text>
+<text
      transform="translate(633.418,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13408"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">K</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">K</text>
+<text
      transform="translate(687.4492,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13410"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">L</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">L</text>
+<text
      transform="translate(739.7861,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13412"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">;</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">;</text>
+<text
      transform="translate(792.8574,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13414"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">‘</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">‘</text>
+<text
      transform="translate(289.1138,259.5371)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13416"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Z</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">Z</text>
+<text
      transform="translate(342.0898,259.5371)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13418"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">X</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">X</text>
+<text
      transform="translate(395.2578,259.5371)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13420"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">C</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">C</text>
+<text
      transform="translate(448.5537,259.5371)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13422"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">V</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">V</text>
+<text
      transform="translate(501.4497,259.5371)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13424"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">B</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">B</text>
+<text
      transform="translate(554.3135,259.5371)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13426"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">N</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">N</text>
+<text
      transform="translate(606.3457,259.5371)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13428"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">M</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">M</text>
+<text
      transform="translate(845.1133,206.3857)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13430"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">\</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">\</text>
+<text
      transform="translate(663.6738,259.5537)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13432"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">,</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">,</text>
+<text
      transform="translate(235.6416,259.5537)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13434"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">\</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">\</text>
+<text
      transform="translate(167.0015,100.1294)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
@@ -83983,235 +84015,267 @@
      id="text13436"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
-       id="tspan12855">`</tspan></text><text
+       id="tspan12855">`</tspan></text>
+<text
      transform="translate(716.8418,259.5537)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13438"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">.</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">.</text>
+<text
      transform="translate(769.1455,259.5537)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13440"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">/</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">/</text>
+<text
      transform="translate(831.0176,153.2974)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13442"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">]</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">]</text>
+<text
      transform="translate(806.5215,98.1294)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13444"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">=</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">=</text>
+<text
      transform="translate(751.4014,97.1211)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13446"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">-</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">-</text>
+<text
      transform="translate(221.5938,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13448"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">1</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">1</text>
+<text
      transform="translate(273.4819,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13450"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">2</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">2</text>
+<text
      transform="translate(326.4897,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13452"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">3</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">3</text>
+<text
      transform="translate(379.3696,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13454"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">4</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">4</text>
+<text
      transform="translate(432.8096,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13456"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">5</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">5</text>
+<text
      transform="translate(485.8179,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13458"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">6</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">6</text>
+<text
      transform="translate(539.7217,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13460"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">7</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">7</text>
+<text
      transform="translate(591.9941,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13462"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">8</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">8</text>
+<text
      transform="translate(645.2256,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13464"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">9</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">9</text>
+<text
      transform="translate(698.2979,97.1055)"
      fill="#FFFFFF"
      font-family="'Rajdhani'"
      font-size="16"
      id="text13466"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">0</text><text
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">0</text>
+<text
      transform="translate(208.6152,117.3003)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13468"
-     style="fill:#000000">!</text><text
+     style="fill:#000000">!</text>
+<text
      transform="matrix(1.25,0,0,1,155.4561,120.2212)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="13.6px"
      id="text13470"
-     style="fill:#000000">~</text><text
+     style="fill:#000000">~</text>
+<text
      transform="translate(224.5156,277.334)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="13px"
      id="text13472"
-     style="fill:#000000">|</text><text
+     style="fill:#000000">|</text>
+<text
      transform="translate(819.8945,169.9668)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13474"
-     style="fill:#000000">}</text><text
+     style="fill:#000000">}</text>
+<text
      transform="translate(837.2148,223.5469)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13476"
-     style="fill:#000000">|</text><text
+     style="fill:#000000">|</text>
+<text
      transform="translate(649.6748,276.2266)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13478"
-     style="fill:#000000">&lt;</text><text
+     style="fill:#000000">&lt;</text>
+<text
      transform="translate(702.834,276.2266)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13480"
-     style="fill:#000000">&gt;</text><text
+     style="fill:#000000">&gt;</text>
+<text
      transform="translate(755.9941,275.3867)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13482"
-     style="fill:#000000">?</text><text
+     style="fill:#000000">?</text>
+<text
      transform="translate(261.7744,117.3066)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13484"
-     style="fill:#000000">@</text><text
+     style="fill:#000000">@</text>
+<text
      transform="translate(314.9346,117.3066)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13486"
-     style="fill:#000000">#</text><text
+     style="fill:#000000">#</text>
+<text
      transform="translate(368.0342,117.3467)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13488"
-     style="fill:#000000">$</text><text
+     style="fill:#000000">$</text>
+<text
      transform="translate(421.1943,117.2666)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13490"
-     style="fill:#000000">%</text><text
+     style="fill:#000000">%</text>
+<text
      transform="translate(474.3545,117.2666)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13492"
-     style="fill:#000000">^</text><text
+     style="fill:#000000">^</text>
+<text
      transform="translate(527.5146,117.2666)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13494"
-     style="fill:#000000">&amp;</text><text
+     style="fill:#000000">&amp;</text>
+<text
      transform="translate(580.6748,117.2368)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13496"
-     style="fill:#000000">*</text><text
+     style="fill:#000000">*</text>
+<text
      transform="translate(633.7744,117.2368)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13498"
-     style="fill:#000000">(</text><text
+     style="fill:#000000">(</text>
+<text
      transform="translate(686.9346,117.2368)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13500"
-     style="fill:#000000">)</text><text
+     style="fill:#000000">)</text>
+<text
      transform="translate(740.0947,117.2368)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13502"
-     style="fill:#000000">_</text><text
+     style="fill:#000000">_</text>
+<text
      transform="translate(793.2539,117.7368)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13504"
-     style="fill:#000000">+</text><text
-     transform="translate(258.9243,169.9766)"
-     fill="#FFFFFF"
-     font-family="Rajdhani"
-     font-size="10px"
-     id="text13506"
-     style="fill:#000000">@</text><text
+     style="fill:#000000">+</text>
+<text
      transform="translate(446.7944,117.9766)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13508"
-     style="fill:#000000">€</text><text
+     style="fill:#000000">€</text>
+<text
      transform="translate(621.1846,276.5771)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13510"
-     style="fill:#000000">µ</text><text
+     style="fill:#000000">µ</text>
+<text
      transform="translate(767.7402,169.7261)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13512"
-     style="fill:#000000">{</text><text
+     style="fill:#000000">{</text>
+<text
      id="text13522"
      style="letter-spacing:0px;fill:#000000"
      x="139.59999"
@@ -84222,7 +84286,8 @@
        font-family="Rajdhani"
        font-size="8px"
        id="tspan13520"
-       style="fill:#000000">CTRL</tspan></text><text
+       style="fill:#000000">CTRL</tspan></text>
+<text
      id="text13532"
      x="812.03339"
      y="308.08011"
@@ -84233,7 +84298,8 @@
        font-family="Rajdhani"
        font-size="8px"
        id="tspan13524"
-       style="text-align:center;text-anchor:middle;fill:#000000">CTRL</tspan></text><path
+       style="text-align:center;text-anchor:middle;fill:#000000">CTRL</tspan></text>
+<path
      clip-path="url(#XMLID_27_)"
      fill="#FFFFFF"
      d="m 911.888,95.697 c -0.13,0 -0.258,-0.051 -0.354,-0.146 l -3.229,-3.23 c -0.195,-0.195 -0.195,-0.512 0,-0.707 l 3.229,-3.229 c 0.145,-0.143 0.36,-0.187 0.545,-0.109 0.188,0.077 0.31,0.26 0.31,0.462 v 1.458 h 5.481 c 0.277,0 0.5,0.224 0.5,0.5 0,0.276 -0.223,0.5 -0.5,0.5 h -6.481 v -1.251 l -2.022,2.023 2.022,2.022 v -1.251 h 6.481 c 0.277,0 0.5,0.224 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -5.481 v 1.458 c 0,0.202 -0.122,0.385 -0.31,0.462 -0.061,0.026 -0.128,0.038 -0.191,0.038"
@@ -84279,7 +84345,8 @@
      font-family="Rajdhani"
      font-size="6px"
      id="text13604"
-     style="fill:#000000">↑</text><text
+     style="fill:#000000">↑</text>
+<text
      id="text13614"
      style="fill:#000000"
      x="901.61621"
@@ -84290,13 +84357,15 @@
        font-family="Rajdhani"
        font-size="6px"
        id="tspan13608"
-       style="fill:#000000">PAGE</tspan></text><text
+       style="fill:#000000">PAGE</tspan></text>
+<text
      transform="translate(918.4375,328.0479)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="6px"
      id="text13616"
-     style="fill:#000000">↓</text><text
+     style="fill:#000000">↓</text>
+<text
      id="text13626"
      style="fill:#000000"
      x="853.12677"
@@ -84307,7 +84376,8 @@
        font-family="Rajdhani"
        font-size="6px"
        id="tspan13620"
-       style="fill:#000000">HOME</tspan></text><text
+       style="fill:#000000">HOME</tspan></text>
+<text
      id="text13652"
      style="fill:#000000"
      x="155.65729"
@@ -84318,7 +84388,8 @@
        font-family="Rajdhani"
        font-size="6px"
        id="tspan13642"
-       style="fill:#000000">FNLOCK</tspan></text><path
+       style="fill:#000000">FNLOCK</tspan></text>
+<path
      clip-path="url(#XMLID_28_)"
      fill="#ffffff"
      d="m 721.958,309.049 h -7.084 c -0.221,0 -0.4,-0.179 -0.4,-0.4 0,-0.221 0.18,-0.399 0.4,-0.399 h 7.084 c 0.221,0 0.4,0.179 0.4,0.399 0,0.221 -0.179,0.4 -0.4,0.4 m 0.4,-3.546 c 0,-0.22 -0.18,-0.4 -0.4,-0.4 h -7.084 c -0.221,0 -0.4,0.181 -0.4,0.4 0,0.221 0.18,0.401 0.4,0.401 h 7.084 c 0.221,0 0.4,-0.18 0.4,-0.401 m -0.002,-3.147 c 0,-0.221 -0.18,-0.399 -0.4,-0.399 h -7.084 c -0.221,0 -0.4,0.179 -0.4,0.399 0,0.222 0.18,0.4 0.4,0.4 h 7.084 c 0.221,0.001 0.4,-0.178 0.4,-0.4"
@@ -84630,13 +84701,15 @@
      font-family="Rajdhani"
      font-size="10px"
      id="text13996"
-     style="fill:#000000">:</text><text
+     style="fill:#000000">:</text>
+<text
      transform="translate(782.834,223.2266)"
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="10px"
      id="text13998"
-     style="fill:#000000">“</text><text
+     style="fill:#000000">“</text>
+<text
      id="text13614-2"
      style="fill:#000000"
      x="901.87518"
@@ -84647,7 +84720,8 @@
        font-family="Rajdhani"
        font-size="6px"
        id="tspan13608-7"
-       style="fill:#000000">PAGE</tspan></text><text
+       style="fill:#000000">PAGE</tspan></text>
+<text
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="6px"
@@ -84656,7 +84730,8 @@
      x="971.38818"
      y="149.52083"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
-       id="tspan36552">↑</tspan></text><text
+       id="tspan36552">↑</tspan></text>
+<text
      id="text36573"
      x="683.24365"
      y="308.08011"
@@ -84667,7 +84742,8 @@
        font-family="Rajdhani"
        font-size="8px"
        id="tspan36571"
-       style="text-align:center;text-anchor:middle;fill:#000000">ALT GR</tspan></text><text
+       style="text-align:center;text-anchor:middle;fill:#000000">ALT GR</tspan></text>
+<text
      id="text36577"
      style="fill:#000000"
      x="954.44678"
@@ -84678,7 +84754,8 @@
        font-family="Rajdhani"
        font-size="6px"
        id="tspan36575"
-       style="fill:#000000">END</tspan></text><text
+       style="fill:#000000">END</tspan></text>
+<text
      id="text36601"
      x="365.08408"
      y="308.08011"
@@ -84689,7 +84766,8 @@
        font-family="Rajdhani"
        font-size="8px"
        id="tspan36599"
-       style="text-align:center;text-anchor:middle;fill:#000000">ALT</tspan></text><text
+       style="text-align:center;text-anchor:middle;fill:#000000">ALT</tspan></text>
+<text
      id="text36605"
      x="258.54324"
      y="308.08011"
@@ -84700,7 +84778,8 @@
        font-family="Rajdhani"
        font-size="8px"
        id="tspan36603"
-       style="text-align:center;text-anchor:middle;fill:#000000">FN</tspan></text><path
+       style="text-align:center;text-anchor:middle;fill:#000000">FN</tspan></text>
+<path
      id="path6218-9"
      style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.733983"
      d="m 291.90155,303.76931 c -0.66772,0 -1.20845,0.723 -1.20845,1.6139 0,0.59776 0.24345,1.11887 0.60521,1.39728 -1.23748,0.59686 -1.35254,1.95474 -1.35254,3.53287 0,0.36971 -0.0309,0.71439 0.15604,1.06434 0.007,0.0162 0.0197,0.032 0.0329,0.0506 0.3223,-0.15233 0.74997,-0.24248 1.22037,-0.24248 0.77127,0 1.42998,0.24721 1.6934,0.59527 0.26342,-0.34806 0.92236,-0.59527 1.6934,-0.59527 0.47004,0 0.89785,0.0917 1.22037,0.24248 0.0123,-0.0187 0.0248,-0.0343 0.0328,-0.0506 0.18679,-0.34995 0.15703,-0.69463 0.15703,-1.06434 0,-1.66365 -0.12827,-3.08238 -1.56422,-3.62331 0.474,-0.15648 0.81587,-0.60231 0.81587,-1.12894 0,-0.65744 -0.53233,-1.19056 -1.18955,-1.19056 -0.51246,0 -0.9495,0.3235 -1.11701,0.77814 -0.0849,-0.78046 -0.58755,-1.37938 -1.19552,-1.37938 z m 0.59923,1.49664 c 0.26094,0 0.47303,0.22712 0.47303,0.50685 0,0.28033 -0.21209,0.5078 -0.47303,0.5078 -0.26149,0 -0.47303,-0.22747 -0.47303,-0.5078 0,-0.27973 0.21154,-0.50685 0.47303,-0.50685 z m 0.94212,0.14214 c 0.18154,0 0.32795,0.15622 0.32795,0.34881 0,0.19333 -0.14647,0.3498 -0.32795,0.3498 -0.18089,0 -0.32796,-0.15647 -0.32796,-0.3498 0,-0.19259 0.14708,-0.34881 0.32796,-0.34881 z m -0.3836,0.43925 c 0.0404,0.16455 0.11468,0.31504 0.21564,0.44422 v 7.8e-4 l 0.63206,-0.0278 -0.81093,1.40819 -0.9282,-1.33265 0.72348,-0.0318 c 0.0733,-0.13937 0.13041,-0.29408 0.16795,-0.46114 z m -0.0108,-4.74134 c -3.74777,0 -6.78553,3.03739 -6.78553,6.78554 0,3.74733 3.03776,6.78554 6.78553,6.78554 3.7477,0 6.78653,-3.03821 6.78653,-6.78554 0,-3.74815 -3.03883,-6.78554 -6.78653,-6.78554 z m 0,1.62682 c 2.32546,0 3.80982,1.93494 4.0268,4.43723 l 1.31676,0.95304 -1.35253,0.7006 c -0.13319,1.0245 -0.47358,1.93615 -1.01167,2.63651 0.3275,0.16977 0.52967,0.4001 0.52967,0.65788 0,0.51512 -0.81301,0.93317 -1.81564,0.93317 -0.77103,0 -1.42998,-0.24718 -1.69339,-0.59528 -0.26343,0.3481 -0.92214,0.59528 -1.6934,0.59528 -1.00261,0 -1.81564,-0.41805 -1.81564,-0.93317 0,-0.25675 0.20241,-0.48914 0.52969,-0.65788 -0.53786,-0.70036 -0.87853,-1.61201 -1.01167,-2.63651 l -1.35254,-0.7006 1.31676,-0.95304 c 0.21696,-2.50229 1.70154,-4.43723 4.0268,-4.43723 z"
@@ -84716,7 +84795,8 @@
        font-weight="'Bold'"
        fill="#ffffff"
        y="59.242996"
-       x="162.899">ESC</tspan></text><text
+       x="162.899">ESC</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="66.981575"
      x="803.22748"
@@ -84728,7 +84808,8 @@
        font-weight="'SemiBold'"
        fill="#ffffff"
        y="66.981575"
-       x="806.71948">BREAK</tspan></text><text
+       x="806.71948">BREAK</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="59.740887"
      x="803.80322"
@@ -84772,7 +84853,8 @@
        font-weight="'Bold'"
        fill="#ffffff"
        y="59.740887"
-       x="821.75519">E</tspan></text><text
+       x="821.75519">E</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="97.54068"
      x="954.27209"
@@ -84784,7 +84866,8 @@
        font-weight="'Bold'"
        fill="#ffffff"
        y="97.54068"
-       x="954.27209">HOME</tspan></text><text
+       x="954.27209">HOME</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="257.02066"
      x="956.97449"
@@ -84820,7 +84903,8 @@
        font-weight="'Bold'"
        fill="#ffffff"
        y="257.02066"
-       x="970.27856" /></text><text
+       x="970.27856" /></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="150.70088"
      x="947.85199"
@@ -84832,7 +84916,8 @@
        font-weight="'Bold'"
        fill="#ffffff"
        y="150.70088"
-       x="954.60406">PAGE</tspan></text><text
+       x="954.60406">PAGE</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="203.8293"
      x="947.85199"
@@ -84844,7 +84929,8 @@
        font-weight="'Bold'"
        fill="#ffffff"
        y="203.8293"
-       x="954.60406">PAGE</tspan></text><text
+       x="954.60406">PAGE</tspan></text>
+<text
      fill="#FFFFFF"
      font-family="Rajdhani"
      font-size="6px"
@@ -84853,7 +84939,8 @@
      x="971.38818"
      y="202.60815"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
-       id="tspan36569">↓</tspan></text><text
+       id="tspan36569">↓</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="59.740887"
      x="957.55212"
@@ -84865,7 +84952,8 @@
        font-weight="'Bold'"
        fill="#ffffff"
        y="59.740887"
-       x="957.55212">DEL</tspan></text><text
+       x="957.55212">DEL</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="59.740887"
      x="908.27258"
@@ -84877,7 +84965,8 @@
        font-weight="'Bold'"
        fill="#ffffff"
        y="59.740887"
-       x="908.27258">INS</tspan></text><text
+       x="908.27258">INS</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="59.740887"
      x="853.96661"
@@ -84889,7 +84978,8 @@
        font-weight="'Bold'"
        fill="#ffffff"
        y="59.740887"
-       x="853.96661">PRTSC</tspan></text><text
+       x="853.96661">PRTSC</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="66.981575"
      x="852.8949"
@@ -84901,7 +84991,8 @@
        font-weight="'SemiBold'"
        fill="#ffffff"
        y="66.981575"
-       x="856.3869">SYSRQ</tspan></text><text
+       x="856.3869">SYSRQ</tspan></text>
+<text
      style="display:inline;fill:#000000;stroke:none"
      y="66.981575"
      x="902.40387"
@@ -84913,4 +85004,5 @@
        font-weight="'SemiBold'"
        fill="#ffffff"
        y="66.981575"
-       x="905.89587">SCRLK</tspan></text></g></svg>
+       x="905.89587">SCRLK</tspan></text>
+</g></svg>
