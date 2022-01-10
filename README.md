@@ -68,6 +68,7 @@ Der Ablauf ist identisch zu den meisten anderen Softwareprojekten auf Github. Zu
     ```
  3. Bearbeiten der neuen Datei mit einem Vektorgrafikprogramm, vorzugsweise [Inkscape](https://inkscape.org/de/). Bitte hierbei folgende Punkte beachten:
     * Die Ebenen *justify* und *grid* sind gesperrt. Diese auf keinen Fall verändern!
+    * Das Gitter ("grid") ist immer für ISO-Layouts angelegt, wird jedoch vom Laser ignoriert. ANSI-Layouts können also problemlos ebenfalls damit erstellt werden!
     * Position der Tastenbeschriftung im Idealfall nicht verändern. Falls doch nötig, bitte nicht zu nahe an den Rand der jeweiligen Taste setzen.
     * Schriftarten nur nach vorheriger Absprache verändern.
       - Die Schriftart kann von [Google Fonts](https://fonts.google.com/specimen/Rajdhani) heruntergeladen werden.
@@ -148,6 +149,7 @@ The process is identical to most other software projects on Github. To be on the
     ```
  3. Edit the new file with a vector graphics program, preferably [Inkscape](https://inkscape.org/). Please note the following points:
     * The levels *justify* and *grid* are locked. Do not change them under any circumstances!
+    * The grid is always created for ISO layouts, but is ignored by the laser. ANSI layouts can therefore also be created with it without any problems!
     * Ideally, do not change the position of the key labeling. If necessary, please do not place it too close to the edge of the respective key.
     * Change fonts only after prior consultation.
       - The font can be downloaded from [Google Fonts](https://fonts.google.com/specimen/Rajdhani).
