@@ -76,7 +76,7 @@ xkb_symbols "us-de" {
     name[Group1]="US with German Umlauts";
 
     key <TLDE> {[ grave,	asciitilde, 	degree				]};
-    key <AC10> {[ colon, 	semicolon,	odiaeresis, 	Odiaeresis	]};
+    key <AC10> {[ semicolon, 	colon,		odiaeresis, 	Odiaeresis	]};
     key <AC11> {[ apostrophe,   quotedbl,	adiaeresis,	Adiaeresis	]};
     key <AD11> {[ bracketleft,  braceleft,	udiaeresis,	Udiaeresis	]};
     key <AE11> {[ minus,	underscore,	ssharp				]};
