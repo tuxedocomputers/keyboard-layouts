@@ -201,9 +201,9 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="true"
    showguides="true"
-   inkscape:zoom="1.9874426"
-   inkscape:cx="362.27461"
-   inkscape:cy="219.3774"
+   inkscape:zoom="6.6140885"
+   inkscape:cx="563.19174"
+   inkscape:cy="203.50499"
    inkscape:window-width="1920"
    inkscape:window-height="1052"
    inkscape:window-x="0"
@@ -2869,4 +2869,9 @@
        sodipodi:role="line"
        id="tspan89"
        x="449.85962"
-       y="96.290367">¶</tspan></text></g></svg>
+       y="96.290367">¶</tspan></text><path
+     d="m 644.85962,196.66372 h -0.16 q -0.2,0 -0.22666,-0.25333 l -0.28,-2.47999 q -0.0133,-0.21334 0.2,-0.21334 h 0.78666 q 0.21333,0 0.2,0.21334 l -0.26666,2.49332 q -0.0667,0.24 -0.25334,0.24 z m 2.14666,0 h -0.14666 q -0.22667,0 -0.22667,-0.25333 l -0.28,-2.47999 q -0.04,-0.21334 0.2,-0.21334 h 0.78667 q 0.22666,0 0.18666,0.21334 l -0.26666,2.49332 q -0.04,0.24 -0.25334,0.24 z"
+     id="text90"
+     style="font-weight:600;font-size:13.3333px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Semi-Bold';text-align:center;text-anchor:middle"
+     inkscape:label="double apostrof"
+     aria-label="&quot;" /></g></svg>
